@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "nam": "tire",
+        "season": "winter",
+        "radius": "17"
+    },
+    {
+        "id":2,
+        "nam": "tire",
+        "season": "summer",
+        "radius": "16"
+    }
+]
